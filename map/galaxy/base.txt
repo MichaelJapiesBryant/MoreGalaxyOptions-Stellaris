@@ -10,6 +10,6 @@ countries = {
 }
 
 fallen_empires = {
-	ideal_sq_dist_between = 15625  	# 175*175 Ideal square distance between countries
-	min_sq_dist_between = 5625		# 75*75 Min square distance between countries		
+	ideal_sq_dist_between = 5625  	# 175*175 Ideal square distance between countries
+	min_sq_dist_between = 2500		# 75*75 Min square distance between countries		
 }
